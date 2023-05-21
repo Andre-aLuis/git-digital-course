@@ -7,5 +7,5 @@
 * Uso do comando git restore
 * Comando Git push
 - Usando o push mais uma vez
-- mais um commit
+- Comando Git fetch
 -
